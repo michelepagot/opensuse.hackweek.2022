@@ -13,8 +13,7 @@ This project is also about reading and digesting the Wezterm documentation and b
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-      <a href="{{ post.url | relative_url }}"> XXX {{ post.title }}</a>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
 </ul>
