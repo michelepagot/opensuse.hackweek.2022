@@ -2,5 +2,3 @@ title: Opensuse h4ckweek 2022
 logo: /img/computer_color.png
 description: Opensuse h4ckweek 2022 navigation log
 theme: jekyll-theme-minimal
-plugins:
-  - jekyll-toc

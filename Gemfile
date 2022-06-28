@@ -13,6 +13,3 @@ gem "webrick", "~> 1.7"
 ## but it is cited in https://jekyllrb.com/docs/themes/
 ## as probably it is an hidden dependency of the github-pages gem
 gem "jekyll-theme-minimal"
-
-## https://github.com/toshimaru/jekyll-toc	
-gem 'jekyll-toc'
