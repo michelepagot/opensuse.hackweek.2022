@@ -22,8 +22,6 @@ This project is also about reading and digesting the Wezterm documentation and b
 
 * Research and contact the opensuse Wezterm package maintainer
 * Look at where to start from (openQA)
-  - Look at similar test in openQA (firefox in x11 ?? )
-  - where to develop (on which openQA instance)?
   - where to let the test run?
   - where to version the test code (test/lib/schedule): in os-autoinst-distri-opensuse or on the wezterm repo directly (I like more the second one but I'm not sure if it is feasible)
 * try to start natively to code test in python?

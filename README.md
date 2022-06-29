@@ -6,7 +6,7 @@ Page is based on Jekyll. The page is rendered remotely by Github on
 
 On openSUSE TW (notice the **pattern install**)
 ```
-$ sudo zypper install -t pattern devel_ruby devel_C_C++\n
+# zypper install -t pattern devel_ruby devel_C_C++
 ```
 
 Tune the environment with:
@@ -32,8 +32,8 @@ $ bundle install
 In order to render the page locally:
 
 ```
-cd <THIS_REPO>
-PAGES_REPO_NWO=michelepagot/opensuse.hackweek.2022  bundle exec jekyll serve --incremental
+$ cd <THIS_REPO>
+$ PAGES_REPO_NWO=michelepagot/opensuse.hackweek.2022  bundle exec jekyll serve --incremental
 ```
 
 Open your browser on [http://127.0.0.1:4000](http://127.0.0.1:4000)
