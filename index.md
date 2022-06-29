@@ -34,5 +34,5 @@ This project is also about reading and digesting the Wezterm documentation and b
 - [openQA doc](http://open.qa/docs/)
 - [Wezterm doc](https://wezfurlong.org/wezterm/)
 - [Wezterm repo](https://github.com/wez/wezterm)
-- Lua
+- [lua](https://www.lua.org/manual/5.3/manual.html)
 - [Jekyll and github pages](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll)
