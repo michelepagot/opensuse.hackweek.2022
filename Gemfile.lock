@@ -258,6 +258,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-theme-minimal
+  jemoji
   webrick (~> 1.7)
 
 BUNDLED WITH
